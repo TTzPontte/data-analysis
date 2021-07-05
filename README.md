@@ -1,2 +1,2 @@
 # data-analysis
-Tools for analyzing/transforming data in usefull ways
+Tools for analyzing/transforming data in useful ways
